@@ -1,8 +1,5 @@
 .header{
     background-color: rgba(0, 0, 0, 0.664);
-    position: relative;
-    height: auto;
-    width: 100%;
     overflow: hidden; 
 }
 
@@ -15,7 +12,6 @@
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
-
 }
 
 .header_navbar-logo--title{
@@ -32,9 +28,6 @@
 }
 
 .body{
-    width: 100%;
-    height: 100%;
-    position: absolute;
     top: 0; left: 0;
     background-size: cover;
     z-index: 1;
@@ -47,12 +40,6 @@
     margin: 30px;
     text-align:center;
 }
-
-
-.wallpaper{
-    position: relative;
-}
-
 
 .bg-black{
     color: #fff;
@@ -95,14 +82,18 @@
 
 footer{
     background-color: rgba(0, 0, 0, 0.664);
-    height: 50px;
-    width: 100%;
     color: #fff;
-    font-size: 120%;
+    font-size: 1.2em;
     text-align: center;
     padding-top: 10px;
+    padding-bottom: 20px;
 }
 
 .souligner{
     text-decoration: underline;
 }
+
+/* Pas fonctionnel, a travailler, voir pour une solution */
+/* .background_img {
+    background: url("../images/avignonweb.png") 100% 100% no-repeat;
+} */
