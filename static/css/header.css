@@ -94,6 +94,9 @@ footer{
 }
 
 /* Pas fonctionnel, a travailler, voir pour une solution */
-/* .background_img {
-    background: url("../images/avignonweb.png") 100% 100% no-repeat;
-} */
+.background_img {
+        max-width: 100%;
+        max-height: 100%;
+        display: block;
+        width: 100%;
+} 
