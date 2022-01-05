@@ -6,9 +6,7 @@
 
 
 .header_navbar{
-    min-width: 800px;
-    height: 100%;
-    display: flex;
+    display:block;
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
@@ -17,6 +15,7 @@
 .header_navbar-logo--title{
     font-size: 200%;
     color: #fff;
+    text-align: left;
 }
 
 
