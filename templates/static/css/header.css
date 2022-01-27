@@ -57,20 +57,17 @@
     color: #fff;
     border-radius: 20px;
     margin-right: 20px;
-    background-color: rgba(0, 0, 0, 0.664); 
 }
 
 .infospratiques{
     color: #fff;
     border-radius: 20px;
-    background-color: rgba(0, 0, 0, 0.664); 
 
 }
 
 .points{
     color: #fff;
     border-radius: 20px;
-    background-color: rgba(0, 0, 0, 0.664); 
 }
 
 .pied{
@@ -124,16 +121,4 @@ footer{
     text-align: justify;
     background-color: rgba(0, 0, 0, 0.664); 
     border-radius: 20px;
-}
-
-.Italiens {
-    min-width: 500px;
-}
-
-.Halles {
-    min-width: 400px;
-}
-
-.parking{
-    color: #fff;
 }
